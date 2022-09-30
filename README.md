@@ -56,6 +56,6 @@ The winner of the election based on popular vote was Diana DeGette who received 
 
 ![Election_Result](https://user-images.githubusercontent.com/112028534/193153987-932d8836-073b-478f-9d1e-79f5614c0a49.PNG)
  
- ##Conclusion
+ ## Conclusion
 
 In a summary, this program provides a fast and accurate method of providing key statistics and information regarding Colorado's elections process. Because the program captures voter turnout out per county it can show which counties may need more campaign funding to provide a higher turnout. Or it could show which areas where increased campaign funding doesn’t lead to higher turnouts. If the program was tailored to capture voting demographics it could illustrate which candidate is more likely to win based on their political party and policies; therefore, with this information candidates could better tailor their campaigns based on the voting base. As a business plan this program could help campaigns be more efficient and effective with their spending. 
